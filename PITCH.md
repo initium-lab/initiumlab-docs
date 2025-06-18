@@ -4,70 +4,71 @@
 
 ## 🎯 O que é a Initium Lab?
 
-A Initium Lab é uma plataforma colaborativa que conecta desenvolvedores iniciantes, autodidatas e entusiastas para criarem projetos reais, com estrutura profissional, autoria reconhecida e liberdade criativa.
+A Initium Lab é uma plataforma colaborativa onde desenvolvedores iniciantes, autodidatas e entusiastas constroem **projetos reais**, com **organização profissional** e **liberdade criativa**.
 
-Não é apenas um grupo de estudo ou troca de ideias. É um ambiente que simula a rotina de uma empresa de software, com squads, planejamento, backlog, versionamento, entregas e resultados concretos.
+Mais do que aprender a programar, os membros vivem a experiência de **trabalhar como em uma empresa de software**, com squads, reuniões, backlog, versionamento, revisão de código, entregas e metas.
+
+É um ambiente de prática séria, para desenvolver tanto o código quanto a mentalidade de time.
 
 ---
 
 ## 🚩 O problema que resolvemos
 
-A maioria dos devs iniciantes enfrenta:
-
-- Falta de **experiência prática real**
-- Grupos informais **sem comprometimento**
-- Tutoriais que **não geram portfólio ou produto**
-- Dificuldade de mostrar valor sem ter trabalhado em equipe
+- Falta de **experiência prática profissional** entre iniciantes
+- Grupos informais que **não entregam nada**
+- Projetos que **nunca saem do papel**
+- Portfólios sem valor real no mercado
 
 ---
 
 ## ✅ Nossa solução
 
-Criamos uma plataforma onde:
+A Initium oferece uma plataforma onde:
 
-- Qualquer dev pode propor ou participar de um projeto real
-- Os projetos têm início, meio e fim — com entregas de verdade
-- O código pertence aos autores, com liberdade de uso ou venda
-- A rotina simula o mercado: com organização, comunicação e versionamento
+- Qualquer dev comprometido pode entrar em projetos reais
+- As equipes seguem **fluxos semelhantes ao ambiente de trabalho real**
+- Cada projeto tem ciclo completo: ideia, planejamento, execução, testes e entrega
+- O código é dos autores, com possibilidade de uso e comercialização
+
+E mais: ao final, o membro pode dizer com segurança que **trabalhou em um projeto estruturado, como em uma empresa**, com entregas reais e rastreáveis.
 
 ---
 
 ## 💡 Diferenciais
 
-- Foco em **projetos nichados e funcionais**
-- Cultura de **comprometimento e respeito**
-- Processo de **check-in, progresso, e autoria visível**
-- Possibilidade de **monetização individual dos sistemas criados**
+- Simula o ambiente profissional de empresas de tecnologia
+- Foco em **entrega com padrões técnicos reais**
+- Registro de progresso, check-ins e rastreabilidade por projeto
+- Liberdade criativa e monetização justa
+- Cultura de respeito, comprometimento e evolução
 
 ---
 
-## 🛠️ MVP (produto mínimo viável)
+## 🔖 Visão de Futuro
 
-A primeira versão da plataforma inclui:
+Queremos que, em breve, dizer “Participei de projetos na Initium” seja reconhecido no mercado como um **selo de excelência, colaboração e qualidade técnica**.
 
-- Cadastro e login de membros
+---
+
+## 🛠️ MVP inicial
+
+Recursos em desenvolvimento:
+
+- Cadastro/login de membros
 - Vitrine de projetos em andamento
 - Página interna de cada projeto
 - Painel privado do usuário
-- Check-ins e diário de progresso simples
-- Estrutura baseada em Next.js, Prisma, Tailwind e NextAuth
+- Check-in manual de progresso
+- Área privada por grupo
 
 ---
 
-## 📣 O que buscamos
+## 📣 Buscamos
 
-- **Apoio de devs iniciantes** para testar e validar a proposta
-- **Feedbacks reais** sobre usabilidade e cultura
-- **Parcerias** com plataformas de hospedagem e comunidades tech
-- **Visibilidade** para quem acredita na força do aprendizado prático
-
----
-
-## 🧠 Status atual
-
-- Documentação completa disponível neste repositório
-- MVP em desenvolvimento no repositório privado [`initiumlab-platform`](https://github.com/initium-lab/initiumlab-platform)
-- Lives e vídeos serão iniciados para acompanhar o processo
+- Devs comprometidos para validar a proposta
+- Feedbacks sobre experiência, usabilidade e fluxo
+- Parcerias com plataformas e comunidades técnicas
+- Apoio para evoluir a ideia com base na prática
 
 ---
 
@@ -75,7 +76,4 @@ A primeira versão da plataforma inclui:
 
 Projeto idealizado e mantido por [fsdFelipe](https://github.com/fsdFelipe)
 
-> “A Initium é o primeiro passo de quem quer transformar aprendizado em entrega real.”
-
----
-
+> “A Initium é o primeiro passo para quem quer viver a experiência de construir sistemas como um profissional — mesmo antes do primeiro emprego.”
