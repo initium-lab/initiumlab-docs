@@ -1,6 +1,8 @@
 # initiumlab-docs
 Documentação oficial do projeto Initium Lab
 
+> 💼 A Initium simula o ambiente de uma empresa de software — com entregas reais, padrões técnicos e experiência prática em equipe.
+
 # Initium Lab
 
 **Initium Lab** é uma plataforma colaborativa onde desenvolvedores iniciantes, autodidatas e entusiastas criam projetos reais em equipe com estrutura profissional.
