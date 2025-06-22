@@ -1,66 +1,82 @@
 # 🧪 Initium Lab
 
-**Initium Lab** é uma plataforma colaborativa onde desenvolvedores — especialmente iniciantes e autodidatas — participam de projetos reais com estrutura inspirada no ambiente de empresas de tecnologia.
-
-Nosso foco é oferecer **experiência prática, autoria reconhecida e evolução real**, trabalhando em equipe, com base em boas práticas e liberdade criativa.
-
----
-
-## 🎯 Propósito
-
-> Aprender é importante. Mas aprender **construindo algo real** é transformador.
-
-O Initium existe para:
-- Criar um espaço seguro e colaborativo para devs em formação.
-- Simular o ambiente profissional (squads, backlog, revisão de código, deploy).
-- Gerar **portfólio real** com projetos entregues — e com autoria.
+**Aprender é essencial. Construir algo real é transformador.**  
+*Iniciativa para devs iniciantes viverem a prática real da programação, colaborando em projetos com estrutura de equipe profissional.*
 
 ---
 
-## 👥 Para quem é
+## 🧠 Sobre o Initium
 
-- Estudantes, autodidatas e iniciantes em programação.
-- Devs que sentem que "só estudar" já não basta.
-- Quem busca crescer **em equipe** e construir algo do zero à entrega.
+O **Initium Lab** é uma plataforma comunitária e colaborativa para desenvolvedores (principalmente iniciantes e autodidatas) que desejam praticar e evoluir através de **projetos reais**, com estrutura semelhante ao ambiente profissional de tecnologia.
+
+---
+
+## 🚀 Propósito
+
+- 💡 Estimular o aprendizado prático, em equipe  
+- 🧱 Simular o ciclo completo de um projeto real  
+- ✍️ Valorizar a autoria dos devs envolvidos  
+- 🔁 Reproduzir rotinas reais de empresas: squads, backlog, pull requests, revisão e deploy  
+
+---
+
+## 👥 Para quem é?
+
+- Estudantes e autodidatas que querem colocar a mão na massa  
+- Pessoas que têm dificuldade de trabalhar sozinhas em projetos grandes  
+- Devs que precisam de **portfólio real e completo**  
+- Quem quer colaborar e crescer junto com a comunidade  
 
 ---
 
 ## 🛠️ Como funciona
 
-- Membros se organizam em squads (equipes).
-- Projetos seguem um ciclo completo: proposta > planejamento > execução > entrega.
-- O código é privado durante o desenvolvimento, com liberdade de uso pelos autores.
-- Cada projeto pode se tornar parte de um portfólio público (vitrine).
-- Curadoria define padrões mínimos de qualidade e guia a evolução da plataforma.
+- 🔹 Devs propõem projetos ou se juntam a squads existentes  
+- 🔹 Os projetos seguem um fluxo organizado: proposta → curadoria → execução → entrega  
+- 🔹 A autoria é **preservada** e reconhecida em cada projeto  
+- 🔹 Os projetos podem futuramente gerar vitrine, aprendizado, e até oportunidades reais  
 
 ---
 
-## 🚀 Como participar
+## 📦 O que você vai encontrar
 
-1. Faça parte da comunidade (link em breve).
-2. Proponha ou entre em um projeto.
-3. Siga os check-ins, entregas e revisões.
-4. Construa, aprenda e publique — de verdade.
-
----
-
-## 🌱 Visão de futuro
-
-- Criar uma vitrine pública de projetos colaborativos.
-- Ajudar devs a conseguirem seus primeiros freelas ou empregos com base no portfólio real.
-- Implementar gamificação, dashboard de progresso e marcações de autoria.
-- Explorar monetização opcional de projetos entre os próprios membros.
+| Seção                           | Descrição                                                   |
+|---------------------------------|--------------------------------------------------------------|
+| 📌 `Proposta Initium`           | Objetivos, funcionamento e valores centrais                 |
+| 📄 `PITCH.md`                   | Apresentação institucional rápida do Initium                |
+| 🧾 `TERMO.md`                   | Termo de participação e conduta para os membros             |
+| 🧠 `conceito/initium-conceito.md` | Rascunho interno e conceitos em expansão (uso interno)     |
 
 ---
 
-## 📎 Documentos complementares
+## 🌱 Visão futura
 
-- 📄 [Pitch Institucional](./PITCH.md)
-- 🧾 [Termo de Participação](./TERMO.md)
-- 🧠 [Conceito Interno - Rascunho](./conceito/Initium Conceito.md)
+- 💻 Vitrine pública com os projetos finalizados  
+- 🎮 Sistema de gamificação (XP, badges, progresso)  
+- 📈 Dashboard de evolução pessoal por dev  
+- 💰 Monetização opcional de projetos entre os membros  
+- 🎓 Integração com plataformas educacionais  
 
 ---
 
-## 📃 Licença
+## ✋ Como participar
 
-Este repositório está licenciado sob [LICENSE.md](./LICENSE.md)
+> **(Em breve será liberado o formulário de acesso à comunidade)**
+
+Enquanto isso:
+- Acompanhe este repositório  
+- Leia os documentos (Pitch, Termo, Conceito)  
+- Fique atento aos anúncios de abertura de vagas nos squads  
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE.md).
+
+---
+
+<p align="center">
+  Feito com 💙 por <strong>Initium Lab</strong> — onde seu código cria raízes reais.
+</p>
+
