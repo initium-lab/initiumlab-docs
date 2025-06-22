@@ -23,7 +23,6 @@ Este repositório contém documentos oficiais da iniciativa, como: visão geral,
 
 ## ✍️ Autor
 
-Criado e idealizado por [fsdFelipe](https://github.com/fsdFelipe)  
-> “Do primeiro passo à entrega real.”
+Criado e idealizado por [fsdFelipe](https://github.com/fsdFelipe) 
 
 > _"Do primeiro passo à entrega real."_
