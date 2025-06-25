@@ -72,7 +72,7 @@ Enquanto isso:
 
 ## 📜 Licença
 
-Este projeto está sob a licença [MIT](./LICENSE.md).
+Este projeto está sob a licença [APACHE 2.0](./LICENSE.md).
 
 ---
 
