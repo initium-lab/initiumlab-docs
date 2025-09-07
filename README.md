@@ -38,6 +38,12 @@ O **Initium Lab** é uma plataforma comunitária e colaborativa para desenvolved
 
 ---
 
+🌐 Demo Online  
+Você pode acessar a versão inicial (MVP) da Initium Lab em:  
+👉 [initium-plataform.onrender.com](https://initium-plataform.onrender.com/)  
+
+*(Obs.: versão em desenvolvimento, pode apresentar limitações ou lentidão em carregamento por estar hospedada em ambiente gratuito.)*
+
 ## 📦 O que você vai encontrar
 
 | Seção                           | Descrição                                                   |
